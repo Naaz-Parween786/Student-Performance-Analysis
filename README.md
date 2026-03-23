@@ -5,7 +5,7 @@
 Exploratory data analysis of 1,000 student records to identify key factors
 influencing academic performance across math, reading, and writing.
 
-**Tools Used:** Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+**Tools Used:** Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook · VS Code
 
 ---
 
